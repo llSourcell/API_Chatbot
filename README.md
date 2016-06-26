@@ -1,9 +1,6 @@
-# API_Chatbot
-API Chatbot for Machine Learning for Hackers #9
-
 Overview
 ====
-This is a Python client for a Flower Delivery Chatbot that I made using [API.AI](http://www.api.ai). This is the code for Machine Learning for Hackers #9 on [Youtube](https://www.youtube.com/watch?v=c6R3EjMQ7H0).
+This is a Python client for a Flower Delivery Chatbot that I made using [API.AI](http://www.api.ai). The bot will have a full conversation with the user, from intial proposal to order delivery status. This is the code for Machine Learning for Hackers #9 on [Youtube](https://www.youtube.com/watch?v=c6R3EjMQ7H0).
 
 
 ## Dependencies
