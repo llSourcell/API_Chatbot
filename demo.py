@@ -4,7 +4,7 @@ import json
 
 #initialize the agent 
 agent = Agent(
- 	 '<subscription-key>',
+     '<subscription-key>',
      '<client-access-token>',
      '<developer-access-token>',
 )
